@@ -1,0 +1,14 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G   28M  6.3G   1% /run
+/dev/nvme1n1p3   92G   71G   16G  82% /
+tmpfs            32G  561M   31G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        184K  168K   12K  94% /sys/firmware/efi/efivars
+tmpfs            32G     0   32G   0% /run/qemu
+/dev/nvme1n1p2  366G  343G  5.0G  99% /media/old
+/dev/nvme0n1p1 1020M   41M  980M   4% /boot/efi
+tmpfs           6.3G  5.0M  6.3G   1% /run/user/1000
+/dev/sda2       501M   26M  475M   6% /media/kritik/DBR_BOOT
+/dev/sda1       932G  887G   45G  96% /media/hard_usb
+/dev/nvme0n1p3  944G  826G  119G  88% /media/hard
+/dev/sdb1       116G  108G  7.8G  94% /media/kritik/Ventoy

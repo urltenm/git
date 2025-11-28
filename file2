@@ -12,4 +12,3 @@ tmpfs           6.3G  5.0M  6.3G   1% /run/user/1000
 /dev/sda1       932G  887G   45G  96% /media/hard_usb
 /dev/nvme0n1p3  944G  826G  119G  88% /media/hard
 /dev/sdb1       116G  108G  7.8G  94% /media/kritik/Ventoy
-6.14.0-36-generic
